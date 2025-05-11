@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479cbc97f8c8e364a83678841065a879, type: 3}
+  m_Name: RedGhost
+  m_EditorClassIdentifier: 
+  characterName: Red Ghost
+  characterSprite: {fileID: 3853583007872120526, guid: f42221f3518ea524b994666a130f18d4, type: 3}
+  maxHealth: 50
+  moveSpeed: 20
